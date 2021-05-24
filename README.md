@@ -7,9 +7,9 @@ Haiqiang Wang, Yinying Wu, Chao Gao*, Yue Deng, Fan Zhang, Jiajin Huang, Jiming 
 
 # Running the code
 ## Data preprocessing
-(1) In ./data, you can find the well-preprocessed sample data in pickle form. It should be mentioned that these sample data are just a small part of the complete data, you can use them to test these code. The complete data can be downloaded from https://mimic.physionet.org/
+(1) In ./data, you can find the well-preprocessed sample data in pickle form. These sample data are just a small part of the complete data, you can use them to test these code. The complete data can be downloaded from https://mimic.physionet.org/
 
-(2) In ./data, you can find our main code, and the train_model.py and the test_model.py are used to train and test our model, respectively. 
+(2) In ./data, you can find our main code, the train_model.py and the test_model.py are used to train and test our model, respectively. 
 
 (3) In ./saved, you can find the saved model of each training epoch.
 
